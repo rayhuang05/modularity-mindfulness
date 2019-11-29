@@ -3,8 +3,17 @@ html {
   font-family: "Noto Sans", sans-serif;
 }
 
+body {
+  margin: 0;
+}
+
 i {
   font-family: "Noto Sans Japanese", sans-serif;
+}
+
+.img-flex {
+  width: 100%;
+  display: block;
 }
 
 .btn-ghost {
