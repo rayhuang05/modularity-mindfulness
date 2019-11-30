@@ -35,4 +35,13 @@ footer {
 }
 
 @media only screen and (min-width: 60em) {
+
+  .logo-left {
+    text-align: left;
+  }
+
+  .nav-right {
+    text-align: right;
+  }
+
 }
