@@ -3,6 +3,11 @@ html {
   font-family: "Noto Sans", sans-serif;
 }
 
+.intro {
+  border-top: 2px solid #e2e2e2;
+  border-bottom: 2px solid #e2e2e2;
+}
+
 i {
   font-family: "Noto Sans Japanese", sans-serif;
 }
